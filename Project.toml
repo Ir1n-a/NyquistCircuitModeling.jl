@@ -1,0 +1,13 @@
+name = "NyquistCircuitModeling"
+uuid = "f3ad492f-9a84-4543-9158-2c657cfb626e"
+authors = ["Ir1n-a <159860234+Ir1n-a@users.noreply.github.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

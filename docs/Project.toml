@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+NyquistCircuitModeling = "f3ad492f-9a84-4543-9158-2c657cfb626e"
