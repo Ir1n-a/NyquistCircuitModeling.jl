@@ -13,8 +13,11 @@ Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
+CSV = "0.10"
 NativeFileDialog = "0.2"
 Plots = "1"
+Optimization = "3"
+StatsBase = "0.34"
 julia = "1.10"
 
 [extras]
