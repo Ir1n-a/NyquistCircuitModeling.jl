@@ -14,7 +14,12 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
 DataInterpolations = "5"
+DataFrames = "1"
+CSV = "0.10"
 NativeFileDialog = "0.2"
+Plots = "1"
+Optimization = "3"
+StatsBase = "0.34"
 julia = "1.10"
 
 [extras]
