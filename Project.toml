@@ -13,12 +13,12 @@ Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
-DataInterpolations = "5"
-DataFrames = "1"
 CSV = "0.10"
+DataFrames = "1"
+DataInterpolations = "5, 6"
 NativeFileDialog = "0.2"
-Plots = "1"
 Optimization = "3"
+Plots = "1"
 StatsBase = "0.34"
 julia = "1.10"
 
